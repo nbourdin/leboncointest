@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  leboncoin
+
+  Created by Nicolas on 05/05/2023.
+  
+*/
+
+"button.buy" = "Acheter";
+"button.contact" = "Contacter";
+"label.description" = "Description";
+"label.categories" = "Categories";
+"category.all" = "Voir tout";
+"article.urgent" = "URGENT";
+"article.siret" = "[PRO] Siret: %@";
+"article.creationDate" = "Publiée le %@";
+"currency" = "€";
+"error.title" = "Erreur";
+"error.description" = "Une erreur s'est produite lors du chargement des données";
+"ok" = "Ok";
